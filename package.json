@@ -1,0 +1,20 @@
+
+{
+  "name": "my-app",
+  "version": "1.0.0",
+  "description": "A sample app",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "https": "^1.0.0",
+    "fs": "^0.0.1-security",
+    "bcrypt": "^5.0.1",
+    "express-rate-limit": "^5.2.6",
+    "helmet": "^4.6.0"
+  },
+  "author": "Author Name",
+  "license": "ISC"
+}
